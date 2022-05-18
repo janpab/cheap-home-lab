@@ -1,5 +1,6 @@
 # cheap-home-server
 ![obraz](https://user-images.githubusercontent.com/48838635/169117860-2a60c591-6536-4512-af9f-0ff375dcd2ba.png)
+
 DELL OPTIPLEX 780 it cost about 150 PLN~ 34 USD
 ![obraz](https://user-images.githubusercontent.com/48838635/169062989-77d71b85-ae18-4196-9229-4f0f61653f1f.png)
 ![obraz](https://user-images.githubusercontent.com/48838635/169117503-65974fba-5bfd-47af-92e5-d6b3b964e29b.png)
