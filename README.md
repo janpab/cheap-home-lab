@@ -9,6 +9,7 @@ DELL OPTIPLEX 780 it cost about 150 PLN~ 34 USD, I installed there 1 TB HDD driv
 My old laptop - ASUS X505L with 500 GB SSD Drive - Open VPN server, I run there Docker images and test some servieces.
 ![obraz](https://user-images.githubusercontent.com/48838635/169075772-ef97a720-a995-426d-a4bc-f70952f40ca4.png)
 ![obraz](https://user-images.githubusercontent.com/48838635/169117221-312cf00a-5373-4c0d-bcde-a04dd91a00c5.png)
+![obraz](https://user-images.githubusercontent.com/48838635/170110351-2eb49d12-d20a-4bfe-bbc6-a500ea582ae0.png)
 
 Unmanaged 5-ports Switch Tp-link TL-SG1005D
 ![obraz](https://user-images.githubusercontent.com/48838635/169063112-e3953b92-d1b7-469d-bc74-54186e0f6449.png)
