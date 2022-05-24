@@ -1,4 +1,5 @@
 # cheap-home-server
+![obraz](https://user-images.githubusercontent.com/48838635/170104945-45441078-7c46-4778-bf53-59a42783bd62.png)
 ![obraz](https://user-images.githubusercontent.com/48838635/169117860-2a60c591-6536-4512-af9f-0ff375dcd2ba.png)
 
 DELL OPTIPLEX 780 it cost about 150 PLN~ 34 USD, I installed there 1 TB HDD drive, This is backup server for family photos or some documents. I am going to buy a second drive soon and setup RAID 1 for more safety.
